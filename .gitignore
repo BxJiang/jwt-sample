@@ -1,0 +1,22 @@
+# Gradle #
+.gradle
+
+# Operating System Files
+*.DS_Store
+Thumbs.db
+
+# Build Files #
+target
+build
+
+# Eclipse Project Files #
+.classpath
+.project
+.settings
+.springBeans
+
+# IntelliJ IDEA Files #
+*.iml
+*.ipr
+*.iws
+*.idea
